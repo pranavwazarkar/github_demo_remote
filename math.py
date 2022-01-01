@@ -22,4 +22,7 @@ def mod(x,y):
         return "infinity"
     else:
         
-        return x%y 
+        return x%y
+#square Fn
+def square(x):
+    return x*x
